@@ -22,7 +22,7 @@ create table admindetails( <br/>
     upassword varchar(50)<br/>
 );<br/>
 insert into customerdb.admin_details(uname,upassword) value(1)?, 2)?);<br/>
-(instead of 1st question mark add your username, and for second add your password)<br/>
+-- (instead of 1st question mark add your username, and for second add your password)<br/>
 
 
 # Start the Application
@@ -32,7 +32,7 @@ The backend server should start running, and you should see the application logs
 
 # Frontend Repository
 - Now follow the steps in this repository <br/>
-https://github.com/vijaydev133/Sunbase-frontend.git
+https://github.com/vijaydev133/Sunbase-Frontend.git
 
 
 
